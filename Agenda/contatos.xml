@@ -1,0 +1,20 @@
+<list>
+  <Contato>
+    <nome>Alberto</nome>
+    <nascimento>3900-02-01 03:00:00.0 UTC</nascimento>
+    <telefone>4799998888</telefone>
+    <email>alberto@gmail.com</email>
+  </Contato>
+  <Contato>
+    <nome>Bartolomeu</nome>
+    <nascimento>3900-04-05 03:00:00.0 UTC</nascimento>
+    <telefone>4798887777</telefone>
+    <email>barto@gmail.com</email>
+  </Contato>
+  <Contato>
+    <nome>Carlinhos</nome>
+    <nascimento>3900-06-20 03:00:00.0 UTC</nascimento>
+    <telefone>4797776666</telefone>
+    <email>carlo@gmail.com</email>
+  </Contato>
+</list>
